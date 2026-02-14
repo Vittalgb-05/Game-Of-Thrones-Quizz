@@ -49,6 +49,8 @@ pip install -r requirements.txt
 
 http://localhost:8501
 
+3.Demo:https://got-vittal.streamlit.app/
+
 
 ---
 
