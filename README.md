@@ -1,47 +1,63 @@
-🏰 Game of Thrones Trivia
-A classic trivia game built with Python's tkinter library, themed around the world of HBO's Game of Thrones. This game challenges your knowledge with a set of curated questions, featuring a timer and a helpful 50/50 lifeline.
+# ⚔ Game of Thrones Trivia App
 
-Features ✨
-Interactive UI: A simple and intuitive graphical interface powered by tkinter.
+## 📌 Project Overview
 
-Question Set: A predefined list of trivia questions with multiple-choice options.
+Game of Thrones Trivia is a web-based quiz application developed using Streamlit.  
+The application presents multiple-choice questions related to the Game of Thrones series and tracks the user’s score throughout the game.
 
-Randomization: Questions are shuffled each time you play to ensure a new experience.
+The questions are randomized each time the game starts, making the quiz interactive and engaging.
 
-Scoring System: Tracks your correct answers throughout the game.
+---
 
-Timer: Each question is timed, adding an element of pressure and fun.
+## 🚀 Features
 
-50/50 Lifeline: A single-use lifeline that removes two incorrect answers, making the choice easier.
+- Randomized question order
+- Multiple-choice answer selection
+- Instant feedback (Correct / Incorrect)
+- Real-time score tracking
+- Game restart functionality
+- Simple and clean user interface
 
-End-of-Game Summary: Displays your final score and a message upon completion.
+---
 
-Requirements 💻
-To run this application, you need to have Python 3.x installed on your system.
-The game uses Python's built-in tkinter library, so no additional dependencies are required.
+## 🛠 Technologies Used
 
-How to Run ▶️
-Save the file: Save the provided code into a file named GOT.py.
+- Python
+- Streamlit
+- Random module
 
-Open a terminal: Navigate to the directory where you saved the file.
+---
 
-Run the script: Execute the following command in your terminal:
+## 📂 Project Structure
 
-python GOT.py
+got-trivia/
+│
+├── app.py
+├── requirements.txt
+└── README.md
 
-The trivia game window will appear, and you can start playing!
+---
 
-Code Structure 🧱
-The QUESTIONS list is a constant that holds the game's data, including questions, options, and answers. You can easily add more questions by following the same dictionary format.
+## ▶ How to Run the Application
 
-The TriviaApp class manages the game's logic, including the user interface, score tracking, question flow, timer, and lifeline functionality.
+1. Install required packages:
 
-The if __name__ == "__main__": block is the application's entry point, which creates the main window and initializes the game.
+pip install -r requirements.txt
 
-About ℹ️
-This project was created as a fun exercise in building a simple GUI application with Python. It's designed to be easily modifiable, so feel free to expand on the features or the question list!
+2. Run the application:
 
-Credits ✍️
-Creator: Vittal
+http://localhost:8501
 
-Data: Based on the television series Game of Thrones
+
+---
+
+## 🎯 Purpose
+
+This project is developed for educational purposes to demonstrate interactive web application development using Python and Streamlit.
+
+---
+
+## 👨‍💻 Author
+
+Vittal  
+Engineering Student
