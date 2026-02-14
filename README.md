@@ -31,11 +31,12 @@ The questions are randomized each time the game starts, making the quiz interact
 ## 📂 Project Structure
 
 got-trivia/
-│
-├── app.py
-├── requirements.txt
-└── README.md
 
+app.py
+
+requirements.txt
+
+README.md
 ---
 
 ## ▶ How to Run the Application
