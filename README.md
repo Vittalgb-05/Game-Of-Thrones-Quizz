@@ -2,21 +2,22 @@
 
 ## 📌 Project Overview
 
-Game of Thrones Trivia is a web-based quiz application developed using Streamlit.  
-The application presents multiple-choice questions related to the Game of Thrones series and tracks the user’s score throughout the game.
-
-The questions are randomized each time the game starts, making the quiz interactive and engaging.
+Game of Thrones Trivia is a web-based quiz application built with Streamlit.
+It presents multiple-choice questions from a JSON question bank, tracks score in real time,
+and supports custom quiz settings such as difficulty filtering and question count.
 
 ---
 
 ## 🚀 Features
 
-- Randomized question order
-- Multiple-choice answer selection
-- Instant feedback (Correct / Incorrect)
-- Real-time score tracking
-- Game restart functionality
-- Simple and clean user interface
+- Randomized question order each game
+- Multiple difficulty levels (Easy/Medium)
+- Configurable number of questions
+- Category and difficulty labels per question
+- Instant feedback with explanations
+- Real-time score tracking and final accuracy
+- Session high score tracking
+- One-click game restart
 
 ---
 
@@ -24,43 +25,49 @@ The questions are randomized each time the game starts, making the quiz interact
 
 - Python
 - Streamlit
-- Random module
+- JSON (question data store)
+- `random` and `pathlib` from Python standard library
 
 ---
 
 ## 📂 Project Structure
 
-got-trivia/
+```text
+Game-Of-Thrones-Quizz/
+├── GOT.py            # Streamlit application code
+├── questions.json    # Quiz question bank
+├── requirements.txt  # Python dependencies
+└── README.md
+```
 
-app.py
-
-requirements.txt
-
-README.md
 ---
 
 ## ▶ How to Run the Application
 
-1. Install required packages:
+1. Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
-2. Run the application:
+2. Start the app:
 
-http://localhost:8501
+```bash
+streamlit run GOT.py
+```
 
-3.Demo:https://got-vittal.streamlit.app/
-
+3. Open the URL shown in your terminal (typically `http://localhost:8501`).
 
 ---
 
 ## 🎯 Purpose
 
-This project is developed for educational purposes to demonstrate interactive web application development using Python and Streamlit.
+This project is intended for learning interactive web app development with Streamlit,
+state management, and lightweight data-driven quiz design.
 
 ---
 
 ## 👨‍💻 Author
 
-Vittal  
+Vittal
 Engineering Student
