@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the name of the white direwolf that Jon Snow finds?",
+    "options": ["Nymeria", "Ghost", "Shaggydog", "Summer"],
+    "answer": "Ghost",
+    "difficulty": "Easy",
+    "category": "Characters",
+    "explanation": "Ghost is Jon Snow's albino direwolf and a symbol of House Stark's bond with the old ways."
+  },
+  {
+    "question": "Which family's sigil is a golden lion on a crimson field?",
+    "options": ["House Stark", "House Baratheon", "House Lannister", "House Targaryen"],
+    "answer": "House Lannister",
+    "difficulty": "Easy",
+    "category": "Houses",
+    "explanation": "House Lannister's lion sigil reflects power, wealth, and their seat at Casterly Rock."
+  },
+  {
+    "question": "What title is given to the leader of the Night's Watch?",
+    "options": ["King Beyond the Wall", "Lord Commander", "Master of Coin", "Hand of the King"],
+    "answer": "Lord Commander",
+    "difficulty": "Easy",
+    "category": "Titles",
+    "explanation": "The Night's Watch elects a Lord Commander to lead the order at Castle Black."
+  },
+  {
+    "question": "Which character is known as the 'Kingslayer'?",
+    "options": ["Tyrion Lannister", "Jaime Lannister", "Jorah Mormont", "The Hound"],
+    "answer": "Jaime Lannister",
+    "difficulty": "Easy",
+    "category": "Characters",
+    "explanation": "Jaime earned the nickname after killing King Aerys II Targaryen."
+  },
+  {
+    "question": "In which city is the Iron Throne located?",
+    "options": ["Winterfell", "Casterly Rock", "King's Landing", "Dragonstone"],
+    "answer": "King's Landing",
+    "difficulty": "Easy",
+    "category": "Locations",
+    "explanation": "The Iron Throne is in the Red Keep in King's Landing."
+  },
+  {
+    "question": "What is the Valyrian steel sword of House Stark called?",
+    "options": ["Longclaw", "Needle", "Ice", "Oathkeeper"],
+    "answer": "Ice",
+    "difficulty": "Medium",
+    "category": "Weapons",
+    "explanation": "Ice is House Stark's ancestral greatsword, later reforged into Oathkeeper and Widow's Wail."
+  },
+  {
+    "question": "Who is known as the Mother of Dragons?",
+    "options": ["Cersei Lannister", "Daenerys Targaryen", "Sansa Stark", "Ygritte"],
+    "answer": "Daenerys Targaryen",
+    "difficulty": "Easy",
+    "category": "Characters",
+    "explanation": "Daenerys hatches three dragons and is called the Mother of Dragons."
+  },
+  {
+    "question": "What are the words of House Stark?",
+    "options": ["Hear Me Roar!", "Our Blades Are Sharp", "Winter Is Coming", "Fire and Blood"],
+    "answer": "Winter Is Coming",
+    "difficulty": "Easy",
+    "category": "Houses",
+    "explanation": "'Winter Is Coming' reflects the Starks' vigilance and duty in the North."
+  },
+  {
+    "question": "Which city is ruled by the Masters before Daenerys conquers it and frees the Unsullied?",
+    "options": ["Qarth", "Meereen", "Astapor", "Volantis"],
+    "answer": "Astapor",
+    "difficulty": "Medium",
+    "category": "Locations",
+    "explanation": "Daenerys acquires the Unsullied in Astapor and turns on the slave masters."
+  },
+  {
+    "question": "Who killed the Night King in the TV series?",
+    "options": ["Jon Snow", "Daenerys Targaryen", "Arya Stark", "Bran Stark"],
+    "answer": "Arya Stark",
+    "difficulty": "Medium",
+    "category": "Battles",
+    "explanation": "Arya Stark kills the Night King during the Battle of Winterfell."
+  }
+]
